@@ -1,3 +1,3 @@
 # Componentes
 
-Componentes do grupo LCT
+Componentes do grupo LCT (Lazarus - CodeTyphon)
