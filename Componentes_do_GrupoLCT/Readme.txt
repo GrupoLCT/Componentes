@@ -1,0 +1,1 @@
+Esta pasta contém os componentes desenvolvidos pelos membros do GrupoLCT
